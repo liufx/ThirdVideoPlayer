@@ -3,7 +3,7 @@
 主要学习来源为
 [中文文档](http://jzvd.org)
 
-[本文的下载Demo](https://github.com/liufx/ThirdVideoPlayer/tree/main/apk/app-release.apk)
+[本文的下载Demo](https://github.com/liufx/ThirdVideoPlayer/blob/mian/apk/app-release.apk)
 
 ## 快速开始
 
@@ -70,6 +70,6 @@ override fun onPause() {
 ```
 
 ## 效果
-![主页](https://github.com/liufx/ThirdVideoPlayer/raw/master/image/1.png)
-![预加载](https://github.com/liufx/ThirdVideoPlayer/raw/master/image/2.png)
-![小窗悬浮](https://github.com/liufx/ThirdVideoPlayer/raw/master/image/3.png)
+![主页](https://github.com/liufx/ThirdVideoPlayer/blob/main/image/1.jpg)
+![预加载](https://github.com/liufx/ThirdVideoPlayer/blob/main/image/2.jpg)
+![小窗悬浮](https://github.com/liufx/ThirdVideoPlayer/blob/main/image/3.jpg)
