@@ -70,6 +70,6 @@ override fun onPause() {
 ```
 
 ## 效果
-![主页](https://github.com/liufx/ThirdVideoPlayer/blob/main/image/1.jpg)
+![主页](https://github.com/liufx/ThirdVideoPlayer/raw/master/image/1.jpg)
 ![预加载](https://github.com/liufx/ThirdVideoPlayer/blob/main/image/2.jpg)
-![小窗悬浮](https://github.com/liufx/ThirdVideoPlayer/blob/main/image/3.jpg)
+![小窗悬浮](https://github.com/liufx/ThirdVideoPlayer/blob/master/image/3.jpg?raw=true)
